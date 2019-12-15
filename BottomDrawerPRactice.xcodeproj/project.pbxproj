@@ -13,6 +13,7 @@
 		0EC8E03D23A3F13900BE44E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EC8E03B23A3F13900BE44E0 /* Main.storyboard */; };
 		0EC8E03F23A3F13A00BE44E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EC8E03E23A3F13A00BE44E0 /* Assets.xcassets */; };
 		0EC8E04223A3F13A00BE44E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EC8E04023A3F13A00BE44E0 /* LaunchScreen.storyboard */; };
+		0EC8E04A23A3F1F200BE44E0 /* BottomDrawerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC8E04923A3F1F200BE44E0 /* BottomDrawerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0EC8E03E23A3F13A00BE44E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0EC8E04123A3F13A00BE44E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0EC8E04323A3F13A00BE44E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EC8E04923A3F1F200BE44E0 /* BottomDrawerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomDrawerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0EC8E03E23A3F13A00BE44E0 /* Assets.xcassets */,
 				0EC8E04023A3F13A00BE44E0 /* LaunchScreen.storyboard */,
 				0EC8E04323A3F13A00BE44E0 /* Info.plist */,
+				0EC8E04923A3F1F200BE44E0 /* BottomDrawerViewController.swift */,
 			);
 			path = BottomDrawerPRactice;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EC8E04A23A3F1F200BE44E0 /* BottomDrawerViewController.swift in Sources */,
 				0EC8E03A23A3F13900BE44E0 /* ViewController.swift in Sources */,
 				0EC8E03623A3F13900BE44E0 /* AppDelegate.swift in Sources */,
 				0EC8E03823A3F13900BE44E0 /* SceneDelegate.swift in Sources */,
